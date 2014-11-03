@@ -1,9 +1,0 @@
-Heat template for deploying drupal with the following:
-  - 1 salt-master instance
-  - 1 MySQL instance w/ salt-minion
-  - 1 haproxy instance w/ salt-minion
-  - n apache2/php5/memcached/drupal instances with synchronized docroots
-
-Still need to work on a healthcheck for drupal.
-Need to clean up inputs to template and add input for choosing flavors.
-  - Possibly allow choice of flavor for each type of minion
