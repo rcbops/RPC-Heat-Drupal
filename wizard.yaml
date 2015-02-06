@@ -3,7 +3,7 @@ release: 1.0
 logo: assets/logo.png
 
 short_desc: |
-  RPC-Heat-Drupal delivers a deployable configuration of Drupal 7 using the Heat orchestration engine that is available in any Rackspace OpenStack Private Cloud.
+  RPC-Heat-Drupal delivers a deployable configuration of Drupal 7 using OpenStack Orchestration (heat) that is available in any Rackspace OpenStack Private Cloud.
 long_desc: |
   Drupal is a popular open-source website platform that supports a range of content from personal blogs to enterprise applications. The easy-to-use interface and thousands of add-on modules provide a cutting-edge platform for web content delivery.
 
