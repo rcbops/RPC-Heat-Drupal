@@ -1,1 +1,0 @@
-Traditional web application models often have difficulties translating to Cloud infrastructure. Larger failure domains, lack of expensive shared storage, and generally less performant instances mean that some of the assumptions we have grown into are no longer applicable in Cloud environments.
