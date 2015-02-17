@@ -1,1 +1,0 @@
-Our Drupal architecture is designed to provide a resillient platform to host your content in a Private Cloud. We have optimized every component of the stack for Cloud Infrastructure. With a deployment driven by the OpenStack Heat orchestration engine and Salt configuration management, we are able to deliver Drupal as a repeatable, scalable, production-ready deployment.
