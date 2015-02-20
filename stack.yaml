@@ -20,7 +20,7 @@ parameters:
 
   keyname:
     type: string
-    label: Salt-Master Keyname
+    label: Salt-Master Key Name
     description: Name of the key used to ssh into the Salt-Master.
 
   image:
