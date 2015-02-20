@@ -42,7 +42,7 @@ parameters:
   flavor:
     type: string
     label: Flavor
-    description: Flavor for all virtual machines in this stack.
+    description: Flavor (size) for all virtual machines in this stack.
     default: m1.small
 
 resources:
