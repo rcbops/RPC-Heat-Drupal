@@ -36,7 +36,7 @@ parameters:
   minion-count:
     type: number
     default: 2
-    label: Number of web servers
+    label: Number of Web Servers
     description: Number of web application servers.
 
   flavor:
